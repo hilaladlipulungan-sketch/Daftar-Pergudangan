@@ -1,2 +1,3 @@
 # Daftar Pergudangan
-KP
+KP ( Kerja Praktek)
+hasil dari project website magang untuk pencatatan gudang
